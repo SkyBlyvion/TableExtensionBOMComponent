@@ -1,0 +1,39 @@
+{
+  "id": "a8859932-df18-44ff-b605-0b7c10391e8b",
+  "name": "TableExtenBOMComponent90",
+  "publisher": "Lopez Nicolas",
+  "version": "1.0.0.5",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "12eacc5c-c397-78fe-ad49-c030e45fcd3e",
+      "name": "ItemsExtensionsTables",
+      "publisher": "Lopez Nicolas",
+      "version": "1.0.1.6"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50032,
+      "to": 50033
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
