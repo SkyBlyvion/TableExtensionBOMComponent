@@ -10,10 +10,10 @@ tableextension 50032 "BOM Component Ext" extends "BOM Component"
             TableRelation = "Code Eco-Mobilier"."Code";
         }
 
-        field(50002; "Code EAN13"; Code[13])
+        field(50002; "GTIN"; Code[13])
         {
             DataClassification = ToBeClassified;
-            Caption = 'Code EAN13';
+            Caption = 'Code GTIN';
         }
 
         field(50005; "Code éco-participation"; Code[3])

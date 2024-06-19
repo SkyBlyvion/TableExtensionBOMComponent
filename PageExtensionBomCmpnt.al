@@ -9,7 +9,7 @@ pageextension 50033 "BOM Component Page Ext" extends "Assembly BOM"
                 ApplicationArea = All;
                 Caption = 'Code Eco-Mobilier';
             }
-            field("Code EAN13"; Rec."Code EAN13")
+            field("GTIN"; Rec."GTIN")
             {
                 ApplicationArea = All;
                 Caption = 'Code EAN13';

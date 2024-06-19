@@ -2,7 +2,7 @@
   "id": "a8859932-df18-44ff-b605-0b7c10391e8b",
   "name": "TableExtenBOMComponent90",
   "publisher": "Lopez Nicolas",
-  "version": "1.0.0.5",
+  "version": "1.0.0.6",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -15,7 +15,7 @@
       "id": "12eacc5c-c397-78fe-ad49-c030e45fcd3e",
       "name": "ItemsExtensionsTables",
       "publisher": "Lopez Nicolas",
-      "version": "1.0.1.6"
+      "version": "1.0.1.8"
     }
   ],
   "screenshots": [],
